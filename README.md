@@ -5,6 +5,7 @@ Base react tempalte with webpack and support to compile css and js
 To run:
 * `npm install`
 * `npm run dev`
+* go to `http://localhost:8080`
 
 ## Files to look at
 * Styling in the css directory
